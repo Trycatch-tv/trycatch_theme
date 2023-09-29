@@ -1,0 +1,21 @@
+{
+  "name": "trycatch-theme",
+  "displayName": "TryCatch Theme",
+  "description": "Con este tema va a poder programar a 10x.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "TryCatch Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TryCatch Theme-color-theme.json"
+      }
+    ]
+  }
+}
