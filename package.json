@@ -2,7 +2,17 @@
   "name": "trycatch-theme",
   "displayName": "TryCatch Theme",
   "description": "Con este tema va a poder programar a 10x.",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "trycatchtv",
+  "icon": "resorces/trycatch_tv.png",
+  "author": {
+    "name": "Judlup",
+    "email": "judlup@trycatch.tv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Trycatch-tv/trycatch_theme"
+  },
   "engines": {
     "vscode": "^1.82.0"
   },
