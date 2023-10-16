@@ -1,16 +1,22 @@
-# trycatch-theme README
+# TryCatch Theme para VSCode
 
-## Working with Markdown
+## Vista previa
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![Vista previa](./resources/screenshot_1.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Caracteristicas
 
-## For more information
+Gracias a quienes estuvieron en la transmisión, disfruten de su pack de instalación que incluye:
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Trabajo
+Novia
+Nivel senior
+Programar a 10X
+0 Bugs
 
-**Enjoy!**
+## Con el respaldo de
+
+- [Simongiraldoc](https://www.twitch.tv/Simongiraldoc)
+- [dextron_py](https://www.twitch.tv/dextron_py)
+- [georgecr88](https://www.twitch.tv/georgecr88)
+- [NemequenePonguta](https://www.twitch.tv/NemequenePonguta)
