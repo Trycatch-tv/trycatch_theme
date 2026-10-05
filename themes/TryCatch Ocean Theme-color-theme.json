@@ -3,7 +3,6 @@
   "type": "dark",
   "semanticHighlighting": true,
   "colors": {
-    /* --- Fondo principal del Editor --- */
     "editor.background": "#0f111a",
     "editor.foreground": "#d4d8e8",
     "editor.lineHighlightBackground": "#161a27",
@@ -11,12 +10,10 @@
     "editor.selectionBackground": "#1e293b",
     "editor.inactiveSelectionBackground": "#111827",
 
-    /* --- Side Bar (Explorador de archivos) --- */
     "sideBar.background": "#090b10", 
     "sideBar.foreground": "#94a3b8",
     "sideBar.border": "#1e293b",
     
-    /* --- Barra de Actividad (Iconos laterales) --- */
     "activityBar.background": "#121622",
     "activityBar.foreground": "#d4d8e8",
     "activityBar.inactiveForeground": "#475569",
@@ -26,7 +23,7 @@
     "activityBarBadge.foreground": "#ffffff",
     "activityBarBadge.background": "#d97706",
     
-    /* --- Barra de Estado (Abajo) --- */
+
     "statusBar.background": "#090b10",
     "statusBar.foreground": "#7c859d",
     "statusBar.noFolderBackground": "#090b10",
@@ -34,13 +31,12 @@
     "statusBar.debuggingBackground": "#b45309",
     "statusBar.debuggingForeground": "#ffffff",
     
-    /* --- Barra de Título (Arriba) --- */
+
     "titleBar.activeBackground": "#090b10",
     "titleBar.activeForeground": "#cbd5e1",
     "titleBar.inactiveBackground": "#090b10",
     "titleBar.inactiveForeground": "#475569",
 
-    /* --- Menús y Desplegables --- */
     "menu.background": "#151926",
     "menu.foreground": "#d4d8e8",
     "menu.selectionBackground": "#1e293b",
@@ -52,7 +48,6 @@
     "dropdown.foreground": "#d4d8e8",
     "dropdown.border": "#1e293b",
 
-    /* --- Otros elementos de la UI --- */
     "sideBarTitle.foreground": "#7c859d",
     "badge.background": "#d97706",
     "badge.foreground": "#ffffff",
@@ -62,7 +57,6 @@
     "inputOption.activeBorder": "#d97706",
     "inputOption.activeForeground": "#f8fafc",
     
-    /* --- Autocompletado --- */
     "editorSuggestWidget.background": "#151926",
     "editorSuggestWidget.foreground": "#d4d8e8",
     "editorSuggestWidget.highlightForeground": "#c678dd",
@@ -70,7 +64,6 @@
     "editorSuggestWidget.border": "#1e293b"
   },
   
-  /* --- REGLAS SEMÁNTICAS (Fuerza los colores por encima de Python) --- */
   "semanticTokenColors": {
     "namespace": "#e5c07b",
     "module": "#e5c07b",
