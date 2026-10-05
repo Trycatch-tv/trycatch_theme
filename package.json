@@ -27,7 +27,7 @@
         "path": "./themes/TryCatch Theme-color-theme.json"
       },
       {
-        "label": "Ocean Blue",
+        "label": "TryCatch Ocean",
         "uiTheme": "vs-dark",
         "path": "./themes/TryCatch Ocean Theme-color-theme.json"
       }
