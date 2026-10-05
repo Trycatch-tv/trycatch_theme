@@ -182,6 +182,98 @@
       "settings": {
         "foreground": "#abb2bf"
       }
+    },
+    {
+      "name": "Etiquetas (HTML, XML, JSX, TSX)",
+      "scope": [
+        "entity.name.tag",
+        "punctuation.definition.tag"
+      ],
+      "settings": {
+        "foreground": "#e06c75" 
+      }
+    },
+    {
+      "name": "Atributos de Etiquetas (HTML, JSX, Vue)",
+      "scope": [
+        "entity.other.attribute-name"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#d19a66"
+      }
+    },
+    {
+      "name": "Propiedades (CSS, SASS, LESS)",
+      "scope": [
+        "support.type.property-name",
+        "meta.property-name"
+      ],
+      "settings": {
+        "foreground": "#56b6c2"
+      }
+    },
+    {
+      "name": "Claves de Diccionarios y Objetos (JSON, YAML)",
+      "scope": [
+        "support.type.property-name.json",
+        "meta.structure.dictionary.key",
+        "entity.name.tag.yaml"
+      ],
+      "settings": {
+        "foreground": "#e06c75"
+      }
+    },
+    {
+      "name": "Expresiones Regulares y Caracteres de Escape",
+      "scope": [
+        "string.regexp",
+        "constant.character.escape"
+      ],
+      "settings": {
+        "foreground": "#56b6c2"
+      }
+    },
+    {
+      "name": "Markdown - Títulos",
+      "scope": [
+        "markup.heading",
+        "punctuation.definition.heading.markdown"
+      ],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#61afef"
+      }
+    },
+    {
+      "name": "Markdown - Negritas y Cursivas",
+      "scope": [
+        "markup.bold"
+      ],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#e5c07b"
+      }
+    },
+    {
+      "name": "Markdown - Cursivas",
+      "scope": [
+        "markup.italic"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#c678dd"
+      }
+    },
+    {
+      "name": "Markdown - Código en línea y Bloques",
+      "scope": [
+        "markup.inline.raw",
+        "markup.fenced_code.block"
+      ],
+      "settings": {
+        "foreground": "#98c379"
+      }
     }
   ]
 }
