@@ -30,6 +30,11 @@
         "label": "TryCatch Ocean",
         "uiTheme": "vs-dark",
         "path": "./themes/TryCatch Ocean Theme-color-theme.json"
+      },
+      {
+        "label": "TryCatch Light",
+        "uiTheme": "vs",
+        "path": "./themes/TryCatch Light Theme-color-theme.json"
       }
     ]
   }
