@@ -4,6 +4,13 @@ All notable changes to the "trycatch-theme" extension will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.6] - 2026-10-08
+
+### Added
+
+- Nuevo tema **TryCatch Ocean** (Dark azulado) por [@Estebanfonseca](https://github.com/Estebanfonseca).
+- Nuevo tema **TryCatch Light** (Tema claro) por [@Estebanfonseca](https://github.com/Estebanfonseca).
+
 ## [0.0.5] - 2023-12-01
 
 ### Changed

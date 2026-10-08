@@ -34,6 +34,14 @@ Gracias a quienes estuvieron en la transmisión, disfruten de su pack de instala
 
    Esto configurará JetBrains Mono como la fuente del editor y habilitará las ligaduras de fuente si JetBrains Mono las soporta.
 
+## Temas Disponibles
+
+- **TryCatch Theme**: El tema oscuro original.
+- **TryCatch Ocean**: Variante oscura con tonos azules profundos.
+- **TryCatch Light**: Variante clara para los amantes del tema light.
+
+Para cambiar entre ellos, usa el atajo `Ctrl + K, Ctrl + T` (o `Cmd + K, Cmd + T` en macOS) y selecciona tu variante favorita.
+
 ## Con el respaldo de
 
 - [Simongiraldoc](https://www.twitch.tv/Simongiraldoc)
@@ -41,7 +49,12 @@ Gracias a quienes estuvieron en la transmisión, disfruten de su pack de instala
 - [georgecr88](https://www.twitch.tv/georgecr88)
 - [NemequenePonguta](https://www.twitch.tv/NemequenePonguta)
 
+## Contribuidores
+
+- [Estebanfonseca](https://github.com/Estebanfonseca) - Creador de los temas TryCatch Ocean y TryCatch Light.
+
 ## Contacto
 
 - [judlup@trycatch.tv](mailto:judlup@trycatch.tv)
 - [Twitch](https://twitch.tv/trycatch)
+
